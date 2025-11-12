@@ -4,12 +4,13 @@ chris@chrisdavidpham.com
 ### Mission
 Create contentment in a shared reality by teaching, learning, and leveraging technologies to build systems that enable joy and reduce suffering.
 # Skills
-| Javascript | C                  | Databases | ETL        |	Scripting  |	CI/CD	      | Business Logic |
-|:-----------|:-------------------|:----------|:-----------|:------------|:-------------|:---------------|
-| Node.js    | C++                | SQL       |	Matillion  |	PowerShell |	AWS	MS      | Dynamics       |
-| Typescript | C#                 | GraphQL   |	StreamSets |	Bash       |	Azure	      | Camunda        |
-| Angular    | .NET Framework 4.x | DynamoDB  |	Snowflake  |	Python     |	Git	        | Workday        |
-| React      | .NET 5, 6          | MongoDB   |	Alteryx    |	VBS        |	Subversion	| Encompass      |
+| Javascript | C                  | Scripting  | Query Language | Databases | Platforms | ETL        | CI/CD        | VCS  | Business Logic    |
+|:-----------|:-------------------|:-----------|:---------------|:----------|:----------|:-----------|:-------------|:-----|-------------------|
+| Node.js    | C++                | PowerShell | SQL            | MySQL     | AWS       | Matillion  | Bitbucket    | Git  | AWS State Machine |
+| Typescript | C#                 | Bash       | NoSQL          | Oracle    | Docker    | StreamSets | Azure DevOps | TFVC | MS Dynamics       |
+| Angular    | .NET 5, 6          | Python     | GraphQL        | Snowflake | Heroku    | Alteryx    | GitLab       | SVN  | Camunda           |
+| React      | .NET Framework 4.x | VBS        | LINQ           | DynamoDB  | SCCM      |            | GitHub       |      | Workday           |
+| MaterialUI | ASP.NET            | batch      | MQL            | MongoDB   | RabbitMQ  |            |              |      | Encompass         |
 # Education
 ## University of Kansas
 ### Department of Physics & Astronomy
