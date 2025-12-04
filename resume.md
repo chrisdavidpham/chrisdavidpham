@@ -1,9 +1,9 @@
 # Christopher Pham
 ***Senior Software Engineer***  
 
-#### Contact  
-*Email* chris@chrisdavidpham.com
-*Mobile Phone* +1 (316) 312-2255
+### Contact  
+**Email** chris@chrisdavidpham.com  
+**Mobile Phone** +1 (316) 312-2255
 ## About Me
 I'm a technologist with 10+ years of experience architecting cloud-first, scalable enterprise solutions for major healthcare, finance, and ed-tech organizations. I build web apps, APIs, and event-driven systems using TypeScript, Angular, React, C#, PowerShell, SQL and NoSQL databases.
 At work, I connect with my colleagues by practicing trust-building behaviors like initiative, commitment, candor and care. My connection with others energizes teams and cultivates culture.
