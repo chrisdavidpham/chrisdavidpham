@@ -53,7 +53,7 @@ Built features for internal web apps that help wealth managers and advisors faci
 Build a new questionnaire web app and event-driven architecture to provide customers with instant, automated home and auto insurance policy quotes, which improves the focus and engagement of policy writers.
 #### Loan Servicing Dashboard
 *Azure, Angular, Typescript, C#*  
-Developed and maintained features for web apps and backend systems that enabled home buyers to access their loan servicers to make payments, download documents, and perform other mortgage related tasks.
+Developed and maintained features for web apps and back-end systems that enabled home buyers to access their loan servicers to make payments, download documents, and manage their home loans.
 ## Ad Astra Information Systems
 ### Senior Software Engineer (2024 - present)
 Integrating new systems into ed-tech by optimizing planning and scheduling to maximize student program completions.
