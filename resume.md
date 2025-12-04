@@ -1,6 +1,7 @@
 # Christopher Pham
-*Senior Software Engineer*  
-**Contact**  
+***Senior Software Engineer***  
+
+#### Contact  
 *Email* chris@chrisdavidpham.com
 *Mobile Phone* +1 (316) 312-2255
 ## About Me
