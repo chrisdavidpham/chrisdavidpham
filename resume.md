@@ -1,15 +1,13 @@
 # Christopher Pham
-***Senior Software Engineer***  
-
-### Contact  
+## Contact  
 **Email** chris@chrisdavidpham.com  
 **Mobile Phone** +1 (316) 312-2255
 ## About Me
-I'm a technologist with 10+ years of experience architecting cloud-first, scalable enterprise solutions for major healthcare, finance, and ed-tech organizations. I build web apps, APIs, and event-driven systems using TypeScript, Angular, React, C#, PowerShell, SQL and NoSQL databases.
-At work, I connect with my colleagues by practicing trust-building behaviors like initiative, commitment, candor and care. My connection with others energizes teams and cultivates culture.
-At home, I find joy in cooperative games, playing guitar, and repairing my home and cars. My third place is the Dojang where I teach Taekwondo and help students master technique, discipline, and respect.
-### Mission
-Create contentment in a shared reality by teaching, learning, and leveraging technologies to build systems that enable joy and reduce suffering.
+I'm a **Sr. Software Developer** with 10+ years of experience architecting cloud-ready, scalable enterprise solutions for major healthcare, finance, and ed-tech organizations. I build web apps, APIs, and event-driven systems using **C#, TypeScript, Angular, React, PowerShell, SQL and NoSQL databases**.  
+
+*At work* I connect with my colleagues by practicing trust-building behaviors like initiative, commitment, candor and care. My connection with others energizes teams and cultivates culture.  
+
+*At home* I find joy in cooperative games, playing guitar, and repairing my home and cars. My third place is the Dojang where I teach Taekwondo and help students master technique, discipline, and respect.
 # Technical Skills
 | JavaScript | C                  | Scripting  | Query Language | Databases | Platforms | ETL        | CI/CD        | VCS  | Business Logic    |
 |:-----------|:-------------------|:-----------|:---------------|:----------|:----------|:-----------|:-------------|:-----|-------------------|
