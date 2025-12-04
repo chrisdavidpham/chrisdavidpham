@@ -49,10 +49,10 @@ Built features for internal web apps that help wealth managers and advisors faci
 * Built mutual trust by practicing radical candor, enhancing lives, and having fun.
 * Lead presentations and demos that showcased deliverables to stakeholders.
 #### Quote Automation System
-*Azure, GitLab, RabbitMQ, Angular, Typescript, C#*  
+*Azure, GitLab, RabbitMQ, Angular, Typescript, C#, SQL, MongoDB*  
 Build a new questionnaire web app and event-driven architecture to provide customers with instant, automated home and auto insurance policy quotes, which improves the focus and engagement of policy writers.
 #### Loan Servicing Dashboard
-*Azure, Angular, Typescript, C#*  
+*Azure, Angular, Typescript, C#, SQL*  
 Developed and maintained features for web apps and back-end systems that enabled home buyers to access their loan servicers to make payments, download documents, and manage their home loans.
 ## Ad Astra Information Systems
 ### Senior Software Engineer (2024 - present)
