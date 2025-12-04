@@ -4,7 +4,7 @@ chris@chrisdavidpham.com
 ### Mission
 Create contentment in a shared reality by teaching, learning, and leveraging technologies to build systems that enable joy and reduce suffering.
 # Skills
-| Javascript | C                  | Scripting  | Query Language | Databases | Platforms | ETL        | CI/CD        | VCS  | Business Logic    |
+| JavaScript | C                  | Scripting  | Query Language | Databases | Platforms | ETL        | CI/CD        | VCS  | Business Logic    |
 |:-----------|:-------------------|:-----------|:---------------|:----------|:----------|:-----------|:-------------|:-----|-------------------|
 | Node.js    | C++                | PowerShell | SQL            | MySQL     | AWS       | Matillion  | Bitbucket    | Git  | AWS State Machine |
 | Typescript | C#                 | Bash       | NoSQL          | Oracle    | Docker    | StreamSets | Azure DevOps | TFVC | MS Dynamics       |
@@ -27,7 +27,7 @@ Create contentment in a shared reality by teaching, learning, and leveraging tec
 *SCCM, PowerShell*  
 Developed scripts that categorize servers, install software updates, and deploy configuration changes to maintain the stability and security of Cerner solutions.
 #### Server Health and Reports
-*SCCM, C#, Javascript, Tableau*  
+*SCCM, C#, JavaScript, Tableau*  
 Build web APIs to enable observability by automating the collection of server health metrics for IT engineers.
 ## Creative Planning llc
 ### Software Engineer (2019 - 2020)
@@ -38,7 +38,7 @@ Build web APIs to enable observability by automating the collection of server he
 *C#, VBS, SQL, PowerShell, Alteryx*  
 Enabled business operations by up-scaling real-time ETL and troubleshooting data issues.
 #### Employee Dashboard
-*Javascript, HTML, CSS*  
+*JavaScript, HTML, CSS*  
 Built features for internal web apps that help wealth managers and advisors facilitate daily tasks.
 ## Veterans United Home Loans (2021 - 2024)
 ### Software Engineer
