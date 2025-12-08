@@ -1,5 +1,9 @@
 ## About
-Technologist, coach, musician, and creator of digital and physical works.  
+Technologist, creator, coach, and musician.  
 https://chrisdavidpham.com
-## The gist of it
+### Resume
+https://github.com/chrisdavidpham/chrisdavidpham/blob/main/resume.md
+### 2025 Employee Evaluation
+https://github.com/chrisdavidpham/chrisdavidpham/blob/main/performance-review-2025.md
+### The gist of it
 https://gist.github.com/chrisdavidpham
