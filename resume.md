@@ -3,7 +3,7 @@
 **Email** chris@chrisdavidpham.com  
 **Mobile Phone** +1 (316) 312-2255
 ## About Me
-I'm a **Sr. Software Developer** with 10+ years of experience architecting cloud-ready, scalable enterprise solutions for major healthcare, finance, and ed-tech organizations. I build web apps, APIs, and event-driven systems using **C#, TypeScript, Angular, React, PowerShell, **SQL** and **NoSQL** databases.  
+I'm a **Sr. Software Developer** with 10+ years of experience architecting cloud-ready, scalable enterprise solutions for major healthcare, finance, and ed-tech organizations. I build web apps, APIs, and event-driven systems using **C#, TypeScript, Angular, React, PowerShell, SQL** and **NoSQL** databases.  
 
 *At work* I connect with my colleagues by practicing trust-building behaviors like initiative, commitment, candor and care. My connection with others energizes teams and cultivates culture.  
 
@@ -23,7 +23,7 @@ I'm a **Sr. Software Developer** with 10+ years of experience architecting cloud
 Initially pursued a Bachelor of Science in Physics, and switched to a Computer Science focus after acing Programming 1.
 *GPA >3*
 ### Electrical Engineering and Computer Science
-**Bachelor of Science in Interdisciplinary Computing & Physics (2012 - 2016)**  
+#### Bachelor of Science in Interdisciplinary Computing & Physics (2012 - 2016)
 Graduated Spring 2016.
 *GPA >3*
 # Professional Experience
