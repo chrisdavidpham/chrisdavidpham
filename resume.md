@@ -11,7 +11,7 @@ I'm a **Sr. Software Developer** with 10+ years of experience architecting cloud
 # Technical Skills
 | JavaScript | C#                 | Scripting  | Query Language | Databases | Platforms | ETL        | CI/CD        | VCS  |
 |:-----------|:-------------------|:-----------|:---------------|:----------|:----------|:-----------|:-------------|:-----|
-| Typescript | .NET 5, 6          | PowerShell | SQL            | SQL       | AWS       | Matillion  | Bitbucket    | Git  |
+| Typescript | .NET 5, 6          | PowerShell | SQL            | Oracle    | AWS       | Matillion  | Bitbucket    | Git  |
 | Node.js    | .NET Framework 4.x | Bash/Batch | GraphQL        | Snowflake | Docker    | StreamSets | Azure DevOps | TFVC |
 | Angular    | Entity Framework   | Python     | LINQ           | DynamoDB  | Heroku    | Alteryx    | GitLab       | SVN  |
 | React      | ASP.NET            | VBS        | MQL (NoSQL)    | MongoDB   | Azure     |            | GitHub       |      |
