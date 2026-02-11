@@ -20,11 +20,11 @@ I'm a **Sr. Software Developer** with 10+ years of experience architecting cloud
 ## University of Kansas
 ### Department of Physics & Astronomy
 #### Physics (2011 - 2012)
-Initially pursued a Bachelor of Science in Physics, and switched to a Computer Science focus after acing Programming 1.
+Initially pursued a Bachelor of Science in Physics, and switched to a Computer Science focus after acing Programming 1.  
 *GPA >3*
 ### Electrical Engineering and Computer Science
 #### Bachelor of Science in Interdisciplinary Computing & Physics (2012 - 2016)
-Graduated Spring 2016.
+Graduated Spring 2016.  
 *GPA >3*
 # Professional Experience
 ## Cerner Corporation
