@@ -49,8 +49,8 @@ Enabled business operations by up-scaling real-time ETL and troubleshooting data
 #### Employee Dashboard
 *JavaScript, HTML, CSS*  
 Built features for internal web apps that help wealth managers and advisors facilitate daily tasks.
-## Veterans United Home Loans (2021 - 2024)
-### Software Engineer
+## Veterans United Home Loans
+### Software Engineer (2021 - 2024)
 * Developed web apps and services helping veterans become home-owners by facilitating pre-approvals, loan origination, insurance quoting, and mortgage servicing.
 * Wrote and refined user stories that defined technical requirements for minimum viable products.
 * Practiced *Extreme Programming* through pair-programming, test-driven development, and domain-driven design.
