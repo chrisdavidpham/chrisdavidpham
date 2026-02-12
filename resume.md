@@ -9,25 +9,23 @@ I'm a **Sr. Software Developer** with 10+ years of experience architecting cloud
 
 *At home* I find joy in cooperative games, playing guitar, and repairing my home and cars. My third place is the Dojang where I teach Taekwondo and help students master technique, discipline, and respect.
 # Technical Skills
-| Languages  | Frameworks / Libs | Scripting  | Queries | Databases | Platforms | Data ETL   | CI/CD        | VCS  |
-|:-----------|:------------------|:-----------|:--------|:----------|:----------|:-----------|:-------------|:-----|
-| C#         | .NET 4, 5, 6      | PowerShell | SQL     | MySQL     | AWS       | Matillion  | Azure DevOps | Git  |
-| JavaScript | ASP.NET           | Batch      | NoSQL   | Oracle    | Azure     | StreamSets | Bitbucket    | TFVC |
-| Typescript | Entity Framework  | Bash       | GraphQL | Snowflake | Docker    | Alteryx    | GitLab       | SVN  |
-| Python     | Node.js           | VBS        | LINQ    | DynamoDB  | Heroku    | MS Interop | GitHub       |      |
-| VB         | Angular / React   | PHP        | MQL     | MongoDB   | VU DevLab |            | Jenkins      |      |
+| Languages  | Frameworks/Libs  | Scripting  | Queries | Databases | Platforms | Data ETL   | CI/CD        | VCS  |
+|:-----------|:-----------------|:-----------|:--------|:----------|:----------|:-----------|:-------------|:-----|
+| C#         | .NET 4, 5, 6     | PowerShell | SQL     | MySQL     | AWS       | Matillion  | Azure DevOps | Git  |
+| JavaScript | ASP.NET          | Batch      | NoSQL   | Oracle    | Azure     | StreamSets | Bitbucket    | TFVC |
+| Typescript | Entity Framework | Bash       | GraphQL | Snowflake | Docker    | Alteryx    | GitLab       | SVN  |
+| Python     | Node.js          | VBS        | LINQ    | DynamoDB  | Heroku    | MS Interop | GitHub       |      |
+| VB         | Angular / React  | PHP        | MQL     | MongoDB   | VU DevLab |            | Jenkins      |      |
 # Education
 ## University of Kansas
 ### Department of Physics & Astronomy
 #### Physics (2011 - 2012)
 Initially pursued a Bachelor of Science in Physics, and switched to a Computer Science focus after acing Programming 1.  
-
 *GPA >3*  
 ### Electrical Engineering and Computer Science
 #### Bachelor of Science in Interdisciplinary Computing & Physics (2012 - 2016)
 Graduated Spring 2016.  
-
-*GPA >3*  
+*GPA >3*    
 # Professional Experience
 ## Cerner Corporation
 ### Software Engineer (2015 - 2019)
