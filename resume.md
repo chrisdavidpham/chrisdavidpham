@@ -1,102 +1,118 @@
 # Christopher Pham
-## Contact  
-**Email** chris@chrisdavidpham.com  
-**Mobile Phone** +1 (316) 312-2255
-## About Me
-I'm a **Sr. Software Developer** with 10+ years of experience architecting cloud-ready, scalable enterprise solutions for major healthcare, finance, and ed-tech organizations. I build web apps, APIs, and event-driven systems using **C#, TypeScript, Angular, React, PowerShell, SQL** and **NoSQL** databases.  
+**Senior Software Engineer**
+# About Me
 
-*At work* I connect with my colleagues by practicing trust-building behaviors like initiative, commitment, candor and care. My connection with others energizes teams and cultivates culture.  
+I'm a KU alumni and full stack software developer with 9+ years of experience at companies in healthcare, finance, insurance, and ed-tech industries.  
 
-*At home* I find joy in cooperative games, playing guitar, and repairing my home and cars. My third place is the Dojang where I teach Taekwondo and help students master technique, discipline, and respect.
-# Technical Skills
-| Languages  | Frameworks/Libs  | Scripting  | Queries | Databases | Platforms | Data ETL   | CI/CD        | VCS  |
-|:-----------|:-----------------|:-----------|:--------|:----------|:----------|:-----------|:-------------|:-----|
-| C#         | .NET 4, 5, 6     | PowerShell | SQL     | MySQL     | AWS       | Matillion  | Azure DevOps | Git  |
-| JavaScript | ASP.NET          | Batch      | NoSQL   | Oracle    | Azure     | StreamSets | Bitbucket    | TFVC |
-| Typescript | Entity Framework | Bash       | GraphQL | Snowflake | Docker    | Alteryx    | GitLab       | SVN  |
-| Python     | Node.js          | VBS        | LINQ    | DynamoDB  | Heroku    | MS Interop | GitHub       |      |
-| VB         | Angular / React  | PHP        | MQL     | MongoDB   | VU DevLab |            | Jenkins      |      |
+Collaboration and peer-to-peer feedback energizes me. I contribute to a culture of learning and growth by teaching and mentoring others. I value trust-building behaviors from *Speed of Trust* and *Radical Candor* for creating psychological safety in the workspace.  
+# Technical Skill Overview
+
+I've worked extensively on both greenfield and brownfield projects for web apps, RESTful APIs, event-driven architecture, data ETL and integrations using C#/.NET, JavaScript/Node/Angular, and SQL/NoSQL databases. I've developed ci/cd pipelines for both cloud and on-premises hosting on devlops platforms including Azure, AWS, Heroku, and GitLab. For data engineering projects, I've appreciated tools like Alteryx, Matillion, StreamSets, Snowflake, S3, Kinesis and Firehose data streams.
+
+| Technologies  | Years of Experience |     | Tools        | Years of Experience |
+| :------------ | :-----------------: | --- | :----------- | :-----------------: |
+| JavaScript    |          9          |     | Git          |          9          |
+| SQL           |          9          |     | CoPilot      |          4          |
+| PowerShell    |          9          |     | Azure Devops |          3          |
+| C#            |          7          |     | RabbitMQ     |          3          |
+| .NET 4-8      |          7          |     | SCCM         |          3          |
+| NoSQL         |          5          |     | AWS          |          2          |
+| TypeScript    |          5          |     | BitBucket    |          2          |
+| Node          |          5          |     | Snowflake    |          2          |
+| Angular 10-16 |          3          |     | Matillion    |          2          |
+| React 18-19   |          2          |     | StreamSets   |          2          |
 # Education
 ## University of Kansas
-### Department of Physics & Astronomy
-#### Physics (2011 - 2012)
-Initially pursued a Bachelor of Science in Physics, and switched to a Computer Science focus after acing Programming 1.  
-*GPA >3*  
-### Electrical Engineering and Computer Science
-#### Bachelor of Science in Interdisciplinary Computing & Physics (2012 - 2016)
-Graduated Spring 2016.  
-*GPA >3*    
-# Professional Experience
-## Cerner Corporation
-### Software Engineer (2015 - 2019)
-* Developed software that provisions and manages servers hosting healthcare solutions at hospitals, clinics, and other facilities including the Department of Defense.
-* Worked with stakeholders that determined project requirements and timelines.
-* Collaborated with Microsoft security experts to protect personal health information from exploits and attacks.
-#### SCCM Automation
-*SCCM, PowerShell*  
-
-Developed scripts that categorize servers, install software updates, and deploy configuration changes to maintain the stability and security of Cerner solutions.
-#### Server Health and Reports
-*SCCM, C#, JavaScript, Tableau*  
-
-Build web APIs to enable observability by automating the collection of server health metrics for IT engineers.
-## Creative Planning llc
-### Software Engineer (2019 - 2020)
-* Developed systems that extract, transform, and load financial data in real-time.
-* Enhanced web apps that improve business operations and workflow.
-* Liaised with financial experts and documented user stories, requirements, and solutions.
-#### Data ETL and Morning Reports
-*C#, VBS, SQL, PowerShell, Alteryx*
-
-Enabled business operations by up-scaling real-time ETL and troubleshooting data issues.
-#### Employee Dashboard
-*JavaScript, HTML, CSS*
-
-Built features for internal web apps that help wealth managers and advisors facilitate daily tasks.
-## Veterans United Home Loans
-### Software Engineer (2021 - 2024)
-* Developed web apps and services helping veterans become home-owners by facilitating pre-approvals, loan origination, insurance quoting, and mortgage servicing.
-* Wrote and refined user stories that defined technical requirements for minimum viable products.
-* Practiced *Extreme Programming* through pair-programming, test-driven development, and domain-driven design.
-* Collaborated with architects and discovered technical requirements, solutions, and trade-offs for new projects.
-* Built mutual trust by practicing radical candor, enhancing lives, and having fun.
-* Lead presentations and demos that showcased deliverables to stakeholders.
-#### Insurance Policy Quote Automation
-*Azure, GitLab, RabbitMQ, Angular, Typescript, C#, SQL, MongoDB*  
-
-Build a new questionnaire web app and event-driven architecture to provide customers with instant, automated home and auto insurance quotes, which improves the focus and engagement of policy writers.
-#### Loan Servicing Dashboard
-*Azure, Angular, Typescript, C#, SQL*
-
-Developed and maintained features for web apps and back-end systems that enabled home buyers to access their loan servicers to make payments, download documents, and manage their home loans.
+***Aug 2011 - May 2016***
+### BS Computer Science & Physics
+Graduated Spring 2016 with major GPA >3.
+# Experience
 ## Ad Astra Information Systems
-### Senior Software Engineer (2024 - present)
-Integrating new systems into ed-tech by optimizing planning and scheduling to maximize student program completions.
-* Spearhead new projects, investigate technical requirements, and find solutions.
-* Architect, develop, and deliver software with initiative and urgency.
-* Build mutual trust by practicing candor, care, transparency, and commitment.
-* Help others grow by teaching, mentoring, setting good examples, and listening.
-* Lead presentations and live demos to showcase deliverables to stakeholders.
+Overland Park, KS
+### Senior Software Engineer
+***Feb 2024 - Mar 2026***
 #### Data Integration and Real-time ETL
-*AWS, Typescript, SQL, GraphQL*  
-
-Extract, transform, and load student data to enable scheduling apps and graduation optimizers. Integrate new platforms into Ad Astra's domain to support new business. Synchronize data between domains by building event-driven import and writeback systems.
+**Technologies used:** Node, TypeScript, JavaScript, React, SQL, NoSQL, GraphQL, SOAP, Snowflake, DynamoDB, Matillion, AWS, S3, Kinesis Firehose, StreamSets
+* Built new systems and upgraded existing processes for student data ETL.
+* Enabled essential scheduling and graduation planning functionality for student information systems in core business products.
+* Integrate new platforms into Ad Astra's domain to expand the customer base and sales potential.
+* Synchronize data between domains by building responsive event-driven import, writeback, and reconciliation systems.
+#### Data Extensibility and Reporting
+**Technologies used:** Node, TypeScript, JavaScript, React, SQL, NoSQL, GraphQL, SOAP, Snowflake, DynamoDB, Matillion, AWS, S3, Kinesis Firehose
+* Architected and developed new systems to perform ETL on student data.
+* Synchronized data with student information systems by building scalable, real-time data reconciliation systems.
+* Enabled internal teams to generate custom data reports to fulfill customer demands.
+* Succeeded in helping institutions make informed decisions for course scheduling and program planning.
 #### Ad Astra Web App
-*AWS, React, Typescript, MaterialUI*  
+**Technologies used:** Node, TypeScript, JavaScript, React, SQL, NoSQL, GraphQL, Snowflake, DynamoDB, AWS
+* Built and maintained features for user web apps and RESTful apis.
+* Enhanced web app responsiveness by introducing caching, indexing, scoped service patterns, and domain-driven design.
+* Improved UX with revised display formatting, field validation, and error handling.
+## Veterans United Home Loans
+Lenexa, KS
+### Software Engineer
+***May 2021 - Feb 2024***
+#### Web App for Self-Service Insurance Quoting
+**Technologies used:** JavaScript, Node, Angular, TypeScript, HTML, CSS, C#, .NET 4-6, SQL, RabbitMQ, Dynamics CRM, Camunda, GitLab, Azure DevOps
+* Built a new customer portal and web questionnaire to enable customers to apply for insurance online.
+* Collaborated with design teams to implement HTML and CSS templates to ensure exceptional UX and accessibility.
+* Designed singleton and transient services to authenticate and interact with various web API proxys to securely load and save encrypted questionnaire data.
+* Facilitate business workflows, web app display, and UI navigation with controllers that connect user interactions to questionnaire state and service requests & responses.
+* Improved website performance to qualify publishing the app to mobile stores by caching data, lazy-loading components, and improving async operations.
+* Migrated Angular versions from/to 10, 12, 14, 16. Coordinated module dependencies and upgrades between teams.
+* Succeeded in net new revenue from more closed-won leads and improved user experience & feedback.
+#### Web App for Agent Assisted Insurance Quoting
+**Technologies used:** JavaScript, Node, Angular, TypeScript, HTML, CSS, C#, .NET 4-6, SQL, RabbitMQ, Dynamics CRM, Camunda, GitLab, Azure DevOps
+* Updated internal web modules to enhance workflows and comply with latest state laws such as data privacy and askable questions for quoting.
+* Designed views and templates using HTML and CSS to enable smooth, efficient workflows.
+* Built singleton and transient services to authenticate and interact with various web API proxys to securely load and save encrypted questionnaire data.
+* Migrated Angular versions from/to 10, 12, 14, 16. Coordinated module dependencies and upgrades between teams.
+#### Loan Servicing and Policy Dashboard
+**Technologies used:** JavaScript, Node, Angular, TypeScript, HTML, CSS, C#, .NET 4-6, SQL, NoSQL, MongoDB, RabbitMQ, Dynamics CRM, Camunda, GitLab, Azure DevOps
+* Updated .NET web APIs with new endpoints and designed/deployed new APIs to give customers online-access to make payments, download documents, and manage their home loans and policies.
+* Architected and deployed new event-driven systems to facilitate business processes connected to user interactions with customer service and/or web questionnaires.
+* Enhanced existing Angular Node modules and developed new ones to support changes and additions to loan and and insurance servicers.
+* Migrated Angular versions from/to 10, 12, 14, 16. Coordinated module dependencies and upgrades between teams.
+#### Insurance Policy Quote Automation
+**Technologies used:** C#, .NET 4-6, SQL, NoSQL, MongoDB, RabbitMQ, Dynamics CRM, Camunda, GitLab, Azure DevOps
+* Architected and deployed new event-driven systems to provide customers with instant, automated home and auto insurance quotes.
+* Integrate new web services into business apps that subscribe and publish to queues to generate quotes, contact customers, and update CRM.
+* Succeeded in building scalable new net revenue by multiplying capacity and closed-won leads while reducing operating costs.
+## Creative Planning
+Overland Park, KS
+### Software Engineer
+***Nov 2019 - Nov 2020***
+#### Data ETL and Morning Reports
+**Technologies used:** C#, .NET 4, SQL, PowerShell, VBScript, Alteryx
+* Developed new data ETL systems and upgraded old processes to integrate real-time financial data for essential business operations and migrations.
+* Designed database schemas and queries to join and transform data.
+* Built console apps to stream data and replace VBScript macros.
+#### Employee Dashboard
+**Technologies used:** JavaScript, HTML, CSS
+* Built features for internal web apps that help wealth managers and advisors facilitate daily tasks and workflows.
+## Cerner Corporation
+Kansas City, KS
+### Software Engineer
+***Aug 2016 - Nov 2019***
+#### SCCM Automation for Data Centers
+**Technologies used:** C#, .NET 4, PowerShell, SCCM
+* Developed software that identifies, secures, and maintains over 100k Windows servers.
+* Succeeded in hosting Cerner solutions at hospitals, clinics, and other facilities including care from the DoD and VA.
+#### Server Health Monitoring and Reporting
+**Technologies used:** C#, .NET 4, ASP.NET, PowerShell, JavaScript, SCCM, Tableau  
+* Built web APIs to enable observability and proactive troubleshooting by collecting and visualizing server health metrics.
 
-Build and maintain features for app.adastra.live. Enhance the web app's responsiveness by introducing caching and domain-driven design. Improve user experience by improving page formatting, field validation, and error handling.
-## Kittdoodlez
-### Co-Founder (2024 - present)
-* Retailing products by managing business operations to support the creation of original arts.
-* Building and maintaining a webstore to engage customers and facilitate transactions.
-#### Web Store and Blog
-*AWS, React, Typescript, Stripe*  
+# Volunteering
+## KAT Taekwondo Academy
+Shawnee, KS
+### Assistant Instructor
+***Nov 2023 - current***
+* Substitute teach for all belt ranks and all ages.
+* Judge belt tests bi-monthly and provide constructive feedback and mentoring.
 
-Build kittdoodlez.com to enable web-sales, feature new products, and host the artist portfolio, biography, and blog.
-# Certifications
-## Kukkiwon, KAT Taekwondo
-### First Dan Black Belt (2023)
-Teaching students values and techniques of the Korean martial art. Coach for sparring, judge belt tests, grade and advise students.
-## Leidos DHA, DOD, & VA  
-### Public Trust ADP IT-II (2017)
-Security clearance approved to engage in Cerner Corporation contracts with the Department of Defense.
+# Kittdoodlez llc
+Edwardsville, KS
+## Personal Assistant
+***Jul 2024 - current***
+* Build kittdoodlez.com to feature artists and retail products.
+* Assist event booth operations and transaction processing.
