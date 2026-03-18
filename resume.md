@@ -1,26 +1,17 @@
 # Christopher Pham
-**Senior Software Engineer**
+**Senior Software Engineer**  
+chris@chrisdavidpham.com
 # About Me
-
-I'm a KU alumni and full stack software developer with 9+ years of experience at companies in healthcare, finance, insurance, and ed-tech industries.  
-
-Collaboration and peer-to-peer feedback energizes me. I contribute to a culture of learning and growth by teaching and mentoring others. I value trust-building behaviors from *Speed of Trust* and *Radical Candor* for creating psychological safety in the workspace.  
-# Technical Skill Overview
-
+I'm a KU alumni and full stack software developer with 9+ years of experience at companies in healthcare, finance, insurance, and ed-tech industries. Collaboration and peer-to-peer feedback energizes me. I contribute to a culture of learning and growth by teaching and mentoring others. I value trust-building behaviors from *Speed of Trust* and *Radical Candor* for creating psychological safety in the workspace.
+## Top Skills
 I've worked extensively on both greenfield and brownfield projects for web apps, RESTful APIs, event-driven architecture, data ETL and integrations using C#/.NET, JavaScript/Node/Angular, and SQL/NoSQL databases. I've developed ci/cd pipelines for both cloud and on-premises hosting on devlops platforms including Azure, AWS, Heroku, and GitLab. For data engineering projects, I've appreciated tools like Alteryx, Matillion, StreamSets, Snowflake, S3, Kinesis and Firehose data streams.
-
-| Technologies  | Years of Experience |     | Tools        | Years of Experience |
-| :------------ | :-----------------: | --- | :----------- | :-----------------: |
-| JavaScript    |          9          |     | Git          |          9          |
-| SQL           |          9          |     | CoPilot      |          4          |
-| PowerShell    |          9          |     | Azure Devops |          3          |
-| C#            |          7          |     | RabbitMQ     |          3          |
-| .NET 4-8      |          7          |     | SCCM         |          3          |
-| NoSQL         |          5          |     | AWS          |          2          |
-| TypeScript    |          5          |     | BitBucket    |          2          |
-| Node          |          5          |     | Snowflake    |          2          |
-| Angular 10-16 |          3          |     | Matillion    |          2          |
-| React 18-19   |          2          |     | StreamSets   |          2          |
+| Languages     | Frameworks/Libraries | Tools/Platforms |
+| :------------ | :------------------- | :-------------- |
+| JavaScript    | Node                 | AWS             |
+| Typescript    | React 18 - 19        | Azure DevOps    |
+| C#            | Angular 10 - 16      | Snowflake       |
+| SQL           | .NET 4 - 8           | Matillion       |
+| PowerShell    | ASP.NET              | RabbitMQ        |
 # Education
 ## University of Kansas
 ***Aug 2011 - May 2016***
@@ -32,19 +23,19 @@ Overland Park, KS
 ### Senior Software Engineer
 ***Feb 2024 - Mar 2026***
 #### Data Integration and Real-time ETL
-**Technologies used:** Node, TypeScript, JavaScript, React, SQL, NoSQL, GraphQL, SOAP, Snowflake, DynamoDB, Matillion, AWS, S3, Kinesis Firehose, StreamSets
+**Technologies used:** Node, TypeScript, React, SQL, Snowflake, DynamoDB, Matillion, AWS, S3, Kinesis Firehose, StreamSets
 * Built new systems and upgraded existing processes for student data ETL.
 * Enabled essential scheduling and graduation planning functionality for student information systems in core business products.
 * Integrate new platforms into Ad Astra's domain to expand the customer base and sales potential.
 * Synchronize data between domains by building responsive event-driven import, writeback, and reconciliation systems.
 #### Data Extensibility and Reporting
-**Technologies used:** Node, TypeScript, JavaScript, React, SQL, NoSQL, GraphQL, SOAP, Snowflake, DynamoDB, Matillion, AWS, S3, Kinesis Firehose
+**Technologies used:** Node, TypeScript, React, SQL, Snowflake, DynamoDB, Matillion, AWS, S3, Kinesis Firehose
 * Architected and developed new systems to perform ETL on student data.
 * Synchronized data with student information systems by building scalable, real-time data reconciliation systems.
 * Enabled internal teams to generate custom data reports to fulfill customer demands.
 * Succeeded in helping institutions make informed decisions for course scheduling and program planning.
 #### Ad Astra Web App
-**Technologies used:** Node, TypeScript, JavaScript, React, SQL, NoSQL, GraphQL, Snowflake, DynamoDB, AWS
+**Technologies used:** Node, TypeScript, React, SQL, Snowflake, DynamoDB, AWS
 * Built and maintained features for user web apps and RESTful apis.
 * Enhanced web app responsiveness by introducing caching, indexing, scoped service patterns, and domain-driven design.
 * Improved UX with revised display formatting, field validation, and error handling.
@@ -53,7 +44,7 @@ Lenexa, KS
 ### Software Engineer
 ***May 2021 - Feb 2024***
 #### Web App for Self-Service Insurance Quoting
-**Technologies used:** JavaScript, Node, Angular, TypeScript, HTML, CSS, C#, .NET 4-6, SQL, RabbitMQ, Dynamics CRM, Camunda, GitLab, Azure DevOps
+**Technologies used:** Node, Angular, TypeScript, HTML, CSS, C#, .NET 4-6, SQL, RabbitMQ, Dynamics CRM, Camunda, GitLab, Azure DevOps
 * Built a new customer portal and web questionnaire to enable customers to apply for insurance online.
 * Collaborated with design teams to implement HTML and CSS templates to ensure exceptional UX and accessibility.
 * Designed singleton and transient services to authenticate and interact with various web API proxys to securely load and save encrypted questionnaire data.
@@ -62,13 +53,13 @@ Lenexa, KS
 * Migrated Angular versions from/to 10, 12, 14, 16. Coordinated module dependencies and upgrades between teams.
 * Succeeded in net new revenue from more closed-won leads and improved user experience & feedback.
 #### Web App for Agent Assisted Insurance Quoting
-**Technologies used:** JavaScript, Node, Angular, TypeScript, HTML, CSS, C#, .NET 4-6, SQL, RabbitMQ, Dynamics CRM, Camunda, GitLab, Azure DevOps
+**Technologies used:** Node, Angular, TypeScript, HTML, CSS, C#, .NET 4-6, SQL, RabbitMQ, Dynamics CRM, Camunda, GitLab, Azure DevOps
 * Updated internal web modules to enhance workflows and comply with latest state laws such as data privacy and askable questions for quoting.
 * Designed views and templates using HTML and CSS to enable smooth, efficient workflows.
 * Built singleton and transient services to authenticate and interact with various web API proxys to securely load and save encrypted questionnaire data.
 * Migrated Angular versions from/to 10, 12, 14, 16. Coordinated module dependencies and upgrades between teams.
 #### Loan Servicing and Policy Dashboard
-**Technologies used:** JavaScript, Node, Angular, TypeScript, HTML, CSS, C#, .NET 4-6, SQL, NoSQL, MongoDB, RabbitMQ, Dynamics CRM, Camunda, GitLab, Azure DevOps
+**Technologies used:** Node, Angular, TypeScript, HTML, CSS, C#, .NET 4-6, SQL, NoSQL, MongoDB, RabbitMQ, Dynamics CRM, Camunda, GitLab, Azure DevOps
 * Updated .NET web APIs with new endpoints and designed/deployed new APIs to give customers online-access to make payments, download documents, and manage their home loans and policies.
 * Architected and deployed new event-driven systems to facilitate business processes connected to user interactions with customer service and/or web questionnaires.
 * Enhanced existing Angular Node modules and developed new ones to support changes and additions to loan and and insurance servicers.
@@ -101,7 +92,6 @@ Kansas City, KS
 #### Server Health Monitoring and Reporting
 **Technologies used:** C#, .NET 4, ASP.NET, PowerShell, JavaScript, SCCM, Tableau  
 * Built web APIs to enable observability and proactive troubleshooting by collecting and visualizing server health metrics.
-
 # Volunteering
 ## KAT Taekwondo Academy
 Shawnee, KS
@@ -109,10 +99,9 @@ Shawnee, KS
 ***Nov 2023 - current***
 * Substitute teach for all belt ranks and all ages.
 * Judge belt tests bi-monthly and provide constructive feedback and mentoring.
-
 # Kittdoodlez llc
 Edwardsville, KS
-## Personal Assistant
+## Co-Founder
 ***Jul 2024 - current***
 * Build kittdoodlez.com to feature artists and retail products.
 * Assist event booth operations and transaction processing.
